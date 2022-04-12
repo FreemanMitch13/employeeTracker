@@ -27,8 +27,11 @@ THEN I am prompted to select an employee to update and their new role and this i
 ```
 ### Technologies
 Node.js
+
 Inquirer
+
 MySql2
+
 Console.Table
 
 ### Links
