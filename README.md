@@ -2,7 +2,7 @@
 A command line application that allows a company to manage thei employee database using MySql.
 
 ## Descrpition
-Utilizin Mysql and Inquirer, employeeTracker allows a company the ability to manage and maintain their employee database through the simple use of a command line application.
+Utilizing Mysql and Inquirer, employeeTracker allows a company the ability to manage and maintain their employee database through the simple use of a command line application.
 
 ## Acceptance Criteria
 
@@ -33,4 +33,5 @@ Console.Table
 
 ### Links
 GitHub: https://github.com/FreemanMitch13/employeeTracker
+
 Walkthrough: https://drive.google.com/file/d/1Xn8VewxR8cd8iLn7eQIjkLBlANdYost6/view?usp=sharing
